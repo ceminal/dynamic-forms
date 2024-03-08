@@ -1,0 +1,28 @@
+{
+  "formFieldData": [
+    {
+      "label": "Username",
+      "placeholder": "Enter your username",
+      "type": "text",
+      "id": "username"
+    },
+    {
+      "label": "E-mail",
+      "placeholder": "Enter your email",
+      "type": "email",
+      "id": "email"
+    },
+    {
+      "label": "Phone Number",
+      "placeholder": "Enter your phone number",
+      "type": "number",
+      "id": "phoneNumber"
+    },
+    {
+      "label": "Adress",
+      "placeholder": "Enter your adress",
+      "type": "text",
+      "id": "adress"
+    }
+  ]
+}
